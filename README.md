@@ -5,7 +5,7 @@ Veriler haftalık olarak güncellenecekir. En son 19 Aralık 2017 verileri eklen
 
 # Yazarlar
 
-<b>Faruk GÜNGÖR</b> - Araştırmacı - Geliştirici 
+<b>Faruk GÜNGÖR</b> - <i>Araştırmacı - Geliştirici</i> 
 
 # Lisans
 
