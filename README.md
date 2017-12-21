@@ -7,6 +7,6 @@ Veriler haftalık olarak güncellenecekir. En son 19 Aralık 2017 verileri eklen
 
 <b>Faruk GÜNGÖR</b> - Araştırmacı - Geliştirici 
 
-# License
+# Lisans
 
-Proje GPL 3.0 ile lisanslanmıştır
+Proje GPL v3.0 ile lisanslanmıştır
