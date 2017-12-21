@@ -41,7 +41,7 @@ print(parametre)
 
 secim = input("Seçiminiz : \t")
 dbSecim = baglanti.cursor()
-sorgu = {1:"Select rowid,ASNInfo,IPAddress,DateFirstSeen,Country from mirai ", 2:"Select rowid,ASNInfo,IPAddress,DateFirstSeen,Country from mirai where Country='TR'", 3:"Select rowid,ASNInfo,IPAddress,DateFirstSeen,Country from mirai  LIMIT 1000", }
+sorgu = {1:"Select rowid,ASNINFO,IPAddress,DateFirstSeen,Country from mirai ", 2:"Select rowid,ASNINFO,IPAddress,DateFirstSeen,Country from mirai where Country='TR'", 3:"Select rowid,ASNINFO,IPAddress,DateFirstSeen,Country from mirai  LIMIT 1000", }
 
 sorguNo = int(secim)
 kayitGetir = dbSecim.execute(sorgu[sorguNo])
