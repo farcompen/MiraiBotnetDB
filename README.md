@@ -10,3 +10,6 @@ Veriler haftalık olarak güncellenecekir. En son 19 Aralık 2017 verileri eklen
 # Lisans
 
 Proje GPL v3.0 ile lisanslanmıştır
+
+# Kullanım 
+git clone https://github.com/farcompen/MiraiBotnetDB
