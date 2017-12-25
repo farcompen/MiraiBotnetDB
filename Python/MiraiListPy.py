@@ -21,7 +21,7 @@ giris = """
        """
 print(giris)
 #buraya db yolu girilecek 
-baglanti = sqlite3.connect('MiraiBotnetIpDB.sqlite')
+baglanti = sqlite3.connect('DB/MiraiBotnetIpDB.sqlite')
 if baglanti:
     print ("bağlantı başarılı")
 else:
