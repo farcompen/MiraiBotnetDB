@@ -12,7 +12,7 @@ Veriler haftalık olarak güncellenecekir. En son 19 Aralık 2017 verileri eklen
 Proje GPL v3.0 ile lisanslanmıştır
 
 # Kullanım 
-<i>git clone https://github.com/farcompen/MiraiBotnetDB 
- cd MiraiBotnetDB/
+<i>git clone https://github.com/farcompen/MiraiBotnetDB </br>
+ cd MiraiBotnetDB/ </br>
  python3 Python/MiraiListPy.py </i>
 
