@@ -1,7 +1,7 @@
 # MiraiBotnetDB
 
-Mirai Botnet İp Veritabanı çalışmasında yaklaşık 112.000 Uniq İp (ISP, tespit tarihi, Ülkesi vb) bilgileri ile birlikte yer almaktadır. </br>
-Veriler haftalık olarak güncellenecekir. En son 19 Aralık 2017 verileri eklenmiştir</br>
+Mirai Botnet İp Veritabanı çalışmasında  112K +  Uniq İp (ISP, tespit tarihi, Ülkesi vb) bilgileri ile birlikte yer almaktadır. </br>
+Veriler haftalık olarak güncellenecekir. En son 24 Aralık 2017 verileri eklenmiştir</br>
 
 # Yazarlar
 
