@@ -1,7 +1,7 @@
 # MiraiBotnetDB
 
-MiraiBotbet DB Project has 112K + Unique Ip adresses in Database with ASN, IpAdress, FirstSeenDate and Ip Location  </br>
-Database is going to be Updateded weekly. Last seen date is updated as 24 Dec. 2017 </br>
+MiraiBotbet DB Project has 115K+ Unique Ip adresses in Database with ASN, IpAdress, FirstSeenDate and Ip Location  </br>
+Database is going to be Updateded weekly. Last seen date is updated as 03 Jan. 2018 </br>
 
 # Writers
 
