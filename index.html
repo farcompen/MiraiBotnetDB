@@ -18,7 +18,7 @@
 		    $('#msgbox').html('');
 		    var db = openDatabase('DB/MiraiBotnetIpDB.sqlite', '1.0', 'sqllite test database', 2 * 1024 * 1024);
 		    db.transaction(function (transaction) {
-		        transaction.executeSql('SELECT * FROM mirai;', [],
+		        transaction.executeSql('SELECT * FROM Mirai;', [],
 		            function (transaction, result) {
 		                if (result != null && result.rows != null) {
 		                    console.log(result.rows)
