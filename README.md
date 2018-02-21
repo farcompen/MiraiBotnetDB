@@ -17,7 +17,7 @@ Database is going to be Updateded weekly. Last seen date is updated as 07 Feb. 2
 
 # License
 
-Proje GPL v3.0 ile lisanslanmıştır
+ Proje GPL v3.0 ile lisanslanmıştır
 
 
 
