@@ -19,7 +19,7 @@ Database is going to be Updateded weekly. Last seen date is updated as 07 Feb. 2
 
 Proje GPL v3.0 ile lisanslanmıştır
 
-<html>
+
 
 	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript">
@@ -74,15 +74,12 @@ Proje GPL v3.0 ile lisanslanmıştır
 		    ListDBValues();
 		})
 	</script>
-</head>
-	<body>
+
+
 		<div id="msgbox">
 		</div>
 		<p>
 			<input type="text" id="name" placeholder="Name" /></br>
 			<input type="text" id="msg" placeholder="Message" /></br>
 			<input type="button" value="Add Message" id="submit">
-			<input type="button" value="Refresh" onClick="ListDBValues()"> <br>
-	</body>
-
-</html>
+			<input type="button" value="Refresh" onClick="ListDBValues()"> <br
