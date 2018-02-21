@@ -16,7 +16,7 @@
 		 //This is for Listing values present in the database
 		function ListDBValues() {
 		    $('#msgbox').html('');
-		    var db = openDatabase('DB/MiraiBotnetIpDB.sqlite', '1.0', 'sqllite test database', 2 * 1024 * 1024);
+		    var db = openDatabase('DB/MiraiBotnetIpDB', '1.0', 'sqllite test database', 2 * 1024 * 1024);
 		    db.transaction(function (transaction) {
 		        transaction.executeSql('SELECT * FROM Mirai;', [],
 		            function (transaction, result) {
