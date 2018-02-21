@@ -19,8 +19,8 @@ Database is going to be Updateded weekly. Last seen date is updated as 07 Feb. 2
 
 Proje GPL v3.0 ile lisanslanmıştır
 
-<html>
-<head>
+
+
 	<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
 	<script type="text/javascript">
 		 // this is called when an error happens in a transaction
@@ -84,4 +84,4 @@ Proje GPL v3.0 ile lisanslanmıştır
 			<input type="button" value="Add Message" id="submit">
 			<input type="button" value="Refresh" onClick="ListDBValues()"> <br>
 	</body>
-</html>
+
