@@ -1,5 +1,5 @@
 # MiraiBotnetDB
-[!Picture](mira.jpg)
+![Picture](mirai.jpg)
 
 # Gettin Started
 MiraiBotbet DB Project has <b>120K+</b> Unique Ip adresses in Database with ASN, IpAdress, FirstSeenDate and Ip Location  </br>
